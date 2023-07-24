@@ -1,16 +1,27 @@
-### Hi there 👋
+# 👋  Hi there, I'm David
 
-<!--
-**Daviddix/Daviddix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Reactive Frontend developer 😎`**
 
-Here are some ideas to get you started:
+----------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+
+-   💻  Self-taught web developer 
+-   ⚡  Fast learner
+-   🖌️  UI design enthusiast 
+
+### Stack
+
+-   📑  HTML
+-   🎨  CSS
+-    🏗 Javascript 
+-   🌀  Tailwind CSS 
+-   ⚛  ReactJS 
+-    ✨ Invision Studio 
+-   🔜  *Node.js(currently learning)*
+
+### Skills
+
+-  Web application development 
+-  Website development 
+-  UI design(web and mobile)
